@@ -1,7 +1,7 @@
 # Ex.No: 3  Implementation of Minimax Search
 ### DATE: 11/03/2025  
 ### NAME : SANDHYA B N
-### REGISTER NUMBER : 212222060251
+### REGISTER NUMBER : 212222040144
 ### AIM: 
 Write a mini-max search algorithm to find the optimal value of MAX Player from the given graph.
 ### Algorithm:
