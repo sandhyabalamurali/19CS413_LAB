@@ -1,7 +1,7 @@
 # Ex.No: 4   Implementation of Alpha Beta Pruning 
 ### DATE:11/03/2025     
 ### NAME : SANDHYA B N
-### REGISTER NUMBER : 212222060251 
+### REGISTER NUMBER : 212222040144
 ### AIM: 
 Write a Alpha beta pruning algorithm to find the optimal value of MAX Player from the given graph.
 ### Steps:
